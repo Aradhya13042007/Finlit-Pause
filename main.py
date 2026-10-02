@@ -635,7 +635,7 @@ body{background:#f1f5f9}
 <header class="bg-gradient-to-r from-slate-900 via-indigo-900 to-slate-900 text-white">
   <div class="max-w-6xl mx-auto px-6 py-5 flex flex-wrap items-center justify-between gap-4">
     <div class="flex items-center gap-3">
-      <img src="/logo.png" alt="FinLit" class="h-14 w-auto">
+      <img src="/logo.png" alt="" class="h-14 w-auto" onerror="this.style.display='none'">
       <div>
         <h1 class="text-xl font-bold leading-tight">FinLit Pause</h1>
         <p class="text-xs text-indigo-200">Decision-moment co-pilot &middot; built for FinLit Ventures</p>
